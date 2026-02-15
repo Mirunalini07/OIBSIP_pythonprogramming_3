@@ -1,0 +1,80 @@
+The objective of this project is to design and implement a simple voice assistant that:
+
+Converts voice input into text.
+
+Processes the command.
+
+Performs tasks based on the command.
+
+Provides output in both text and voice format.
+This helps in learning Python libraries, automation concepts, and real-time interaction systems.
+
+
+
+
+The voice assistant can:
+
+Greet the user.
+
+Respond to “Hello”.
+
+Tell the current time and date.
+
+Search information on Google.
+
+Provide short information from Wikipedia.
+
+Open YouTube.
+
+Open Notepad.
+
+Open Calculator.
+
+Respond to basic conversations like:
+
+“How are you?”
+
+“What is your name?”
+
+Exit the assistant when the user says “stop” or “exit”.
+
+
+
+
+Installed Python and required libraries.
+
+Created a project folder and organized files.
+
+Implemented speech recognition to convert voice into text.
+
+Implemented text-to-speech to provide voice responses.
+
+Created functions to record and process audio.
+
+Added command handling using conditional statements.
+
+Integrated Google search and Wikipedia API.
+
+Added system automation like opening applications.
+
+Tested the program and fixed errors during development.
+
+
+
+Python
+
+SpeechRecognition
+
+gTTS (Google Text-to-Speech)
+
+SoundDevice
+
+NumPy
+
+Webbrowser
+
+Wikipedia API
+
+Windows OS
+
+VS Code / Command Prompt
